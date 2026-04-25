@@ -67,8 +67,8 @@ Backend-driven ML system for real-time inference.
 ## 📫 Connect with Me
 
 * 📧 Email: [pavankumarbathini2000@gmail.com](mailto:pavankumarbathini2000@gmail.com)
-* 🔗 LinkedIn: https://linkedin.com/in/yourprofile
-* 💻 LeetCode: https://leetcode.com/yourusername
+* 🔗 LinkedIn: https://www.linkedin.com/in/pavan0810/
+* 💻 LeetCode: https://leetcode.com/u/pavan0308/
 
 ---
 
