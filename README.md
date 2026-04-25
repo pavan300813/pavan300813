@@ -1,79 +1,84 @@
-# Hi there, I'm Pavan Kumar 👋
+# 👋 Hi, I'm Pavan Kumar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pavan0810)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/pavan0308)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pavankumarbathini2000@gmail.com)
-![Location](https://img.shields.io/badge/NewYork%2C%20NY-%23green?style=flat&logo=googlemaps&logoColor=white)
+🚀 Backend Software Engineer | Java • Spring Boot • AWS
+📍 New York, NY
 
 ---
 
-## 👨‍💻 About Me
+## 💼 About Me
 
-I'm a **Software Engineer** with an M.S. in Computer Science from Avila University. I enjoy building scalable backend systems, cloud-native solutions, and full-stack applications. I'm passionate about clean architecture, DevOps automation, and writing code that makes a measurable impact.
+I’m a backend-focused software engineer with experience building scalable systems using **Java, Spring Boot, and AWS**. I enjoy designing APIs, optimizing performance, and working on cloud-based distributed systems.
 
-- 🔭 I've built Java/Spring Boot microservices, AWS serverless workflows, and React/Node.js full-stack apps
-- ☁️ Experienced with AWS (Lambda, EC2, S3, DynamoDB, SNS) and Azure
-- 🐳 Familiar with Docker, Kubernetes, and Jenkins CI/CD pipelines
-- 🧠 Currently sharpening problem-solving skills on LeetCode
+* 🔧 Strong in **backend development & microservices**
+* ☁️ Experience with **AWS, Docker, Kubernetes, CI/CD**
+* ⚡ Focused on building **scalable and production-ready systems**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-**Frameworks & Libraries**
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
+**Languages:** Java, Python, SQL
+**Backend:** Spring Boot, REST APIs, Microservices
+**Cloud & DevOps:** AWS (EC2, S3, Lambda, API Gateway), Docker, Kubernetes, Jenkins
+**Databases:** MySQL, PostgreSQL, MongoDB
+**Tools:** Git, Postman, JIRA
 
 ---
 
-## 🚀 Featured Projects
+## 📌 Featured Projects
 
-### 🛒 E-Commerce Web Application
-> **ASP.NET (Entity Framework) · React · Azure App Services · Azure Logic Apps · SQL**
+### 🔗 GenAI Code Review Assistant
 
-Designed and deployed catalog, order, and user management REST APIs on **Azure App Services**, integrating **Azure Logic Apps** for automated order workflows and notifications. Optimized SQL schemas and queries and built a responsive React frontend to support secure, end-to-end e-commerce transactions with emphasis on performance and scalability.
+AI-powered system that automates code reviews and documentation.
 
----
-
-### 🚦 Smart Traffic Sign Recognition Platform
-> **Java · Spring Boot · REST APIs · Docker**
-
-Developed a Spring Boot REST API for a traffic sign classification model achieving **92% accuracy**. Containerized the full application stack with Docker for standardized, environment-agnostic deployments across local and production environments.
+* Built using **LLM APIs + backend workflows**
+* Generates **code reviews, commit messages, and technical docs**
+* Reduced manual effort by **30%**
 
 ---
 
+### 🚦 Traffic Sign Recognition System (Backend Integrated)
 
+Backend-driven ML system for real-time inference.
+
+* Integrated ML model with **Spring Boot APIs**
+* Supports **10,000+ daily requests**
+* Containerized using **Docker**
 
 ---
 
-## 📫 Let's Connect
+## 💼 Experience
 
-- 💼 [LinkedIn](https://linkedin.com/in/pavan0810)
-- 🧩 [LeetCode](https://leetcode.com/u/pavan0308)
-- 📧 pavankumarbathini2000@gmail.com
+### Software Engineer — Vidha IT Solutions
+
+* Optimized **Spring Boot APIs**, improving response time
+* Built **CI/CD pipelines (Jenkins)** reducing deployment time by 94%
+* Automated workflows using **AWS Lambda**
+* Deployed scalable services using **Docker + Kubernetes**
+
+### Software Engineer — Techineur Solutions
+
+* Built **REST APIs (Java)** reducing latency by 40%
+* Automated testing pipelines → reduced effort by 50%
+* Developed backend tools saving engineering time
+
+---
+
+## 📫 Connect with Me
+
+* 📧 Email: [pavankumarbathini2000@gmail.com](mailto:pavankumarbathini2000@gmail.com)
+* 🔗 LinkedIn: https://linkedin.com/in/yourprofile
+* 💻 LeetCode: https://leetcode.com/yourusername
+
+---
+
+## ⚡ Current Focus
+
+* Building scalable backend systems
+* Preparing for **SDE roles (Backend / Cloud)**
+* Improving system design and distributed systems knowledge
+
+---
+
+⭐️ *Always open to opportunities and collaborations!*
+
