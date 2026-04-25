@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pavan0810)
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/pavan0308)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pavankumarbathini2000@gmail.com)
-![Location](https://img.shields.io/badge/NewYork%2C%20MO-%23green?style=flat&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/NewYork%2C%20NY-%23green?style=flat&logo=googlemaps&logoColor=white)
 
 ---
 
